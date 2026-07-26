@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Ivan 👋
 
-<!--
-**IvanGadjo/IvanGadjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer mostly building with React, Next.js,
+TypeScript and Node.js. 
 
-Here are some ideas to get you started:
+Currently building AI-powered healthcare software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Co-founder of Harvel.io (acquired).
+Author of [this](https://dev.to/ivan_gadjovski/sharing-and-bundling-multiple-vendor-bundles-into-one-vendor-bundle-using-webpacks-module-federation-and-split-chunks-plugins-l3) blog post about expirimenting with micro-frontents and webpack plugins.
+
+In the past I have worked on:
+- BMW enterprise applications
+- Startup founder (Harvel.io)
+- Enterprise logistics software
+
+Tech I am most comfortable with:
+- React
+• Next.js
+• TypeScript
+• Node.js
+• NestJS
+• Fastify
+• Prisma
+• PostgreSQL
+• Docker
+• GCP Services
