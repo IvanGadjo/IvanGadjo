@@ -9,9 +9,10 @@ Co-founder of Harvel.io (acquired).
 Author of [this](https://dev.to/ivan_gadjovski/sharing-and-bundling-multiple-vendor-bundles-into-one-vendor-bundle-using-webpacks-module-federation-and-split-chunks-plugins-l3) blog post about expirimenting with micro-frontents and webpack plugins.
 
 In the past I have worked on:
+- Startup founder (Harvel.io, Copyright protection)
 - BMW enterprise applications
-- Startup founder (Harvel.io)
 - Enterprise logistics software
+- International streaming services
 
 Tech I am most comfortable with:
 - React
